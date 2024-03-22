@@ -34,7 +34,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("/img/main.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../img/main.jpg");
     background-size: 100%;
 }
 
@@ -99,6 +99,13 @@ body{
 .alert{
     font-size: 5px;
     color: rgb(191, 201, 200);
+}
+
+.icon-angle{
+    position: relative;
+    top: -40px;
+    font-size: 15px;
+    color: black;
 }
 
 .container-services{
@@ -204,6 +211,6 @@ footer{
     position: fixed;
     bottom: 15px;
     right: 10px;
-    width: 100px;
+    width: 105px;
     height: 90px;
 }
