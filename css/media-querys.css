@@ -79,7 +79,7 @@
         font-size: 10px;
     }
     .large-description{
-        font-size: 9px;
+        font-size: 10px;
     }
 
     .icon{
@@ -114,9 +114,6 @@
     .title{
         width: 96%;
         font-size: 16px;
-    }
-    .description-service{
-        font-size: 7.7px;
     }
 
     .container-img{
