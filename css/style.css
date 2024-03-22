@@ -97,14 +97,14 @@ body{
 }
 
 .alert{
-    font-size: 5px;
-    color: rgb(191, 201, 200);
+    font-size: 6px;
+    color: rgb(0, 31, 28);
 }
 
 .icon-angle{
     position: relative;
     top: -40px;
-    font-size: 15px;
+    font-size: 16px;
     color: black;
 }
 
