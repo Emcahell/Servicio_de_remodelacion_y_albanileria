@@ -1,0 +1,184 @@
+@media (max-width: 700px){
+
+    .word-location{
+        font-size: 12px;
+    }
+    .title{
+        font-size: 20px;
+        width: 90%;
+    }
+    .description-title{
+        font-size: 14px;
+        margin-bottom: 40px;
+    }
+    .contact-me{
+        font-size: 8px;
+    }
+    .wa{
+        width: 150px;
+        height: 30px;
+    }
+
+    .box{
+        width: 200px;
+        height: 250px;
+    }
+    .img-service{
+        width: 90%;
+        height: 50%;
+    }
+    .service-title{
+        font-size: 12px;
+        color: rgb(11, 76, 80);
+    }
+    .description-service{
+        font-size: 10px;
+    }
+
+    .info-footer{
+        padding-top: 25px;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-bottom: 25px;
+        border-radius: 40%;
+        font-size: 7px;
+        border-top: solid 1px lightseagreen;
+    }
+    .icon{
+        font-size: 19px;
+        margin: 7px;
+    }
+}
+
+@media (max-width:570px){
+
+    .title{
+        font-size: 17px;
+        width: 96%;
+    }   
+    .description-title{
+        font-size: 13px;
+        margin-bottom: 35px;
+    }
+
+    .wa-icon{
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 519px){
+
+    .present{
+        width: 80%;
+    }
+    .box{
+        width: 160px;
+        height: 230px;
+    }
+    .large-title{
+        font-size: 10px;
+    }
+    .large-description{
+        font-size: 9px;
+    }
+
+    .icon{
+        font-size: 15px;
+    }
+}
+
+@media (max-width:439px){
+
+    .word-location{
+        font-size: 10px;
+    }
+
+    .box{
+        width: 150px;
+        height: 230px;
+        margin: 10px;
+    }
+
+    .description-title{
+        width: 75%;
+        font-size: 10.5px;
+    }
+
+    .container-img{
+        height: 300px;
+    }
+}
+
+@media (max-width: 361px){
+
+    .title{
+        width: 96%;
+        font-size: 16px;
+    }
+    .description-service{
+        font-size: 7px;
+    }
+
+    .container-img{
+        height: 350px;
+    }
+
+    .service-title{
+        font-size: 11px;
+    }
+    .description-service{
+        font-size: 9px;
+    }
+    .large-title{
+        font-size: 9px;
+    }
+    .large-description{
+        font-size: 8px;
+    }
+}
+
+@media (max-width:339px){
+
+    .present{
+        width: 90%;
+    }
+
+    .container-img{
+        height: 290px;
+    }
+
+    .description-title{
+        margin-bottom: 7px;
+    }
+
+    .box{
+        width: 140px;
+        height: 230px;
+        margin: 10px;
+    }
+}
+
+@media(max-width:319px){
+    .box{
+        width: 125px;
+        height: 220px;
+    }
+}
+
+@media(max-width:289px){
+    .box{
+        width: 110px;
+    }
+}
+
+@media(max-width:276px){
+
+    .container-img{
+        height: 300px;
+    }
+
+    .title{
+        font-size: 15px;
+        width: 100%;
+    }
+}
